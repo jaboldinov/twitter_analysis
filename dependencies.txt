@@ -1,0 +1,9 @@
+jupyter
+spark-nlp==4.2.3 pyspark==3.2.1
+install kafka-python
+pandas
+nltk
+tweepy
+mysql-connector-python
+gensim
+pymysql
